@@ -1,0 +1,3 @@
+[submodule "newt"]
+	path = newt
+	url = https://github.com/hellbrueck/newt.git
