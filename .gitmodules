@@ -1,3 +1,6 @@
 [submodule "newt"]
 	path = newt
 	url = https://github.com/hellbrueck/newt.git
+[submodule "pangolin"]
+	path = pangolin
+	url = https://github.com/hellbrueck/pangolin.git
